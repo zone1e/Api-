@@ -1,0 +1,3 @@
+可以配合JsFind,JsScan,或者插件FindSomething使用
+将收集到的api复制到txt文件运行脚本就可以了
+最后生成cvs，返回的状态码可以早自己调整。
